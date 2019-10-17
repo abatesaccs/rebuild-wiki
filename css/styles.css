@@ -1,0 +1,51 @@
+.header-panel {
+  background-color: #f9f9f9;
+}
+
+.header-bar {
+  float: right;
+}
+
+/* .tabs {
+  float: right;
+} */
+
+.hello {
+  text-align: center;
+}
+.sidenav {
+  background-color: #f9f9f9;
+  height: 100%;
+  top: 40px;
+  left: 0;
+  overflow-x: hidden;
+  width: 17%;
+  z-index: 0;
+  position: absolute;
+  /* text-align: center; */
+}
+
+.sidenav ul {
+  /* text-align: center; */
+  margin-top: 2em;
+}
+
+.sidenav {
+  /* text-align: center; */
+}
+
+.sidenav img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
