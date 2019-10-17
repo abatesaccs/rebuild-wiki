@@ -49,3 +49,12 @@ hr {
     margin: 1em 0;
     padding: 0;
 }
+
+.news {
+  float: right;
+  margin-top: 50px;
+}
+
+.panel-success {
+  background-color: #d0f0cc;
+}
